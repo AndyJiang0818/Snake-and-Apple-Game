@@ -1,6 +1,7 @@
 # Snake-and-Apple-Game
 
 When the snake eats an apple, the length of the snake grows by one size. 
+The apple will be randomly displayed on the map. 
 If the snake eats its own tail, then game is over. 
 You can choose to restart by clicking the "Enter" button, or exit the game by clicking the "Esc" button. 
 
@@ -17,7 +18,7 @@ Simply by clicking the "up", "down", "left", and "right" button on your keyboard
 
 ## Game Walkthough GIF
 
-<img src="" width=500><br>
+<img src="https://media.giphy.com/media/hFc2AGyZGXCT1R1EOJ/giphy.gif?cid=790b7611ffd3b932d93fccab77b3accc95c3a0016122726d&rid=giphy.gif&ct=g" width=500><br>
 
 ## Packages
 
